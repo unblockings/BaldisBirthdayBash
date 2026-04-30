@@ -1,7 +1,7 @@
 {
 "companyName": "Bromine Network",
 "productName": "Baldi's Basics 1 Year Birthday Bash",
-"dataUrl": "BaldiBirthdayBash.data.unityweb",
+"dataUrl": "https://raw.githubusercontent.com/unblockings/BaldisBirthdayBash/main/Build/BaldiBirthdayBash.data.unityweb",
 "wasmCodeUrl": "BaldiBirthdayBash.wasm.code.unityweb",
 "wasmFrameworkUrl": "BaldiBirthdayBash.wasm.framework.unityweb",
 "TOTAL_MEMORY": 33554432,
